@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#40121d"/>
+      <stop offset="1" stop-color="#09090d"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <circle cx="300" cy="310" r="150" fill="#ffffff" opacity=".05"/>
+  <text x="300" y="370" text-anchor="middle"
+        fill="#f4eee5" font-family="Arial,sans-serif"
+        font-size="190" font-weight="700">S</text>
+  <text x="300" y="690" text-anchor="middle"
+        fill="#c9bdc0" font-family="Arial,sans-serif"
+        font-size="25" letter-spacing="9">SURI</text>
+</svg>
